@@ -35,6 +35,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/MGBrave/peres24/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://github.com/peres24/peres24/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###

@@ -9,7 +9,7 @@
 
 ###
 
-<img autoplay align="right" width="600px" height="150" src="https://gifdb.com/images/high/monkey-d-luffy-anime-sleeping-bubble-drool-4sdxxljean6j3php.gif"  />
+<img autoplay align="right" width="640px" height="150" src="https://gifdb.com/images/high/monkey-d-luffy-anime-sleeping-bubble-drool-4sdxxljean6j3php.gif"  />
 
 ###
 

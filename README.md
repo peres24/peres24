@@ -35,6 +35,6 @@
 
 <br clear="both">
 
-<img src="<img src="https://raw.githubusercontent.com/peres24/peres24/output/snake.svg" alt="Snake animation" />"
+<img src="https://raw.githubusercontent.com/peres24/peres24/output/snake.svg" alt="Snake animation" />"
 
 ###
